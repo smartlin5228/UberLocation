@@ -12,7 +12,6 @@
     <artifactId>fleet-location-updater</artifactId>
     <name>fleet-location-updater</name>
     <description>Spring Uber Project Location Updater</description>
-    dependencies>
     <!--<dependency>-->
     <!--<groupId>org.demo</groupId>-->
     <!--<artifactId>config-bootstrap</artifactId>-->
